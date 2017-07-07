@@ -6,9 +6,11 @@ Nothing fancy, only all the things you already used to. To see this Jekyll site 
 followed by `bundle exec jekyll serve` to build and serve site pages using Jekyll's embedded web server.
 
 ## How to Execute Specification(s)
-At this points there is only one (very simple) specification available, `theme.feature`. As you can see
-the specification is looking very human-friendly, despite the fact that it does a lot of heavy lifting
-behind the scenes.
+At this points there is only one (very simple) specification available, `theme.feature`. To execute the 
+specification run `bundle exec theme-specs` in the console and watch what will happen!
+
+As you can see the specification is looking very human-friendly, despite the fact that it does a lot of
+heavy lifting behind the scenes.
 
 For example:
 
